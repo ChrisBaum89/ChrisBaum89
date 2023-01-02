@@ -15,6 +15,15 @@ Wanting to focus on the aspects of my career that I enjoy most, I joined the Fla
 
 I have strong and diverse analytical skills, project and management skills, and communication skills working with customers, engineers, managers, directors, and corporate leaders. I have always provide a very positive impact to teams and businesses and know that I can be an asset to yours!
 
+##Projects
+Better Dad
+
+The Fish Store
+
+Net Worth Tracker
+
+Bass Bait and Catch Tracker
+
 <!--
 **ChrisBaum89/ChrisBaum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
