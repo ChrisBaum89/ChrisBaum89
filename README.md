@@ -1,4 +1,4 @@
-### Hey! I'm Chris! 👋
+### Hi! I'm Chris! 👋
 ---
 
 I have always loved technology across multiple fields of engineering and see the benefits these technologies can bring to help make things easier, improve consistency and quality, and positively impact quality of life.
