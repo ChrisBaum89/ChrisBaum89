@@ -7,9 +7,10 @@ I got my Bachelor's degree in Mechanical Engineering after much debate between E
 
 The things I have enjoyed most about my career so far have been:
 
- programming and optimizing PLCs, vision systems, and human-machine interfaces to do things better, faster, and more cost effective
-implementing new projects that remove business headaches and support customers' goals
-developing methods for data collection that provides useful information to users and decision makers within an organization
+- programming and optimizing PLCs, vision systems, and human-machine interfaces to do things better, faster, and more cost effective
+- implementing new projects that remove business headaches and support customers' goals
+- developing methods for data collection that provides useful information to users and decision makers within an organization
+
 Many of these skills were self-taught, as I have a strong desire to continuously improve my skills, add value to my team, and learn new, ever improving technologies.
 
 Wanting to focus on the aspects of my career that I enjoy most, I joined the Flatiron School - Software Engineering program and graduated in December 2022. As a recent graduate of Flatiron School, with experience using front-end and back-end technologies such as Ruby, Rails, JavaScript, and React, I wish to use and continue to develop these skills to make a positive impact to software project teams, businesses, and society.
