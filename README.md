@@ -19,13 +19,13 @@ I have strong and diverse analytical skills, project and management skills, and 
 
 ## Projects
 ---
-### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad)
+#### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad)
 
-### The Fish Store [Repo](https://github.com/ChrisBaum89/fish-project)
+#### The Fish Store [Repo](https://github.com/ChrisBaum89/fish-project)
 
-### Net Worth Tracker [Repo](https://github.com/ChrisBaum89/NetWorth_Porfolio_Project_3)
+#### Net Worth Tracker [Repo](https://github.com/ChrisBaum89/NetWorth_Porfolio_Project_3)
 
-### Bass Bait and Catch Tracker [Repo](https://github.com/ChrisBaum89/Sinatra_Portfolio_Project)
+#### Bass Bait and Catch Tracker [Repo](https://github.com/ChrisBaum89/Sinatra_Portfolio_Project)
 
 <!--
 **ChrisBaum89/ChrisBaum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
