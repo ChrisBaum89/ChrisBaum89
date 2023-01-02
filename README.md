@@ -20,12 +20,16 @@ I have strong and diverse analytical skills, project and management skills, and 
 ## Projects
 ---
 #### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad)
+Full-stack app to help dads perform daily chores, play with their kids more, and have fun telling silly dad jokes. Features a Ruby on Rails back-end and React front-end.
 
 #### The Fish Store [Repo](https://github.com/ChrisBaum89/fish-project)
+Full-stack app created to provide a more interactive and dynamic user experience with an online store that sells fish. Features a Ruby on Rails back-end and JavaScript front-end.
 
 #### Net Worth Tracker [Repo](https://github.com/ChrisBaum89/NetWorth_Porfolio_Project_3)
+Ruby on Rails app that allow a user to input and track their net worth and the site owner to track user base information.
 
 #### Bass Bait and Catch Tracker [Repo](https://github.com/ChrisBaum89/Sinatra_Portfolio_Project)
+Sinatra application to allow a user to track their bass catches and bait.
 
 <!--
 **ChrisBaum89/ChrisBaum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
