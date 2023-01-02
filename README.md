@@ -33,6 +33,7 @@ Sinatra application to allow a user to track their bass catches and bait.
 
 ## Skills
 ---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="drawing" width="200"/>
 ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
 
 <!--
