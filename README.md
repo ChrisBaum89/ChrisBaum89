@@ -31,6 +31,10 @@ Ruby on Rails app that allow a user to input and track their net worth and the s
 #### Bass Bait and Catch Tracker [Repo](https://github.com/ChrisBaum89/Sinatra_Portfolio_Project)
 Sinatra application to allow a user to track their bass catches and bait.
 
+## Skills
+---
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+
 <!--
 **ChrisBaum89/ChrisBaum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
