@@ -15,7 +15,7 @@ Wanting to focus on the aspects of my career that I enjoy most, I joined the Fla
 
 I have strong and diverse analytical skills, project and management skills, and communication skills working with customers, engineers, managers, directors, and corporate leaders. I have always provide a very positive impact to teams and businesses and know that I can be an asset to yours!
 
-##Projects
+### Projects
 Better Dad
 
 The Fish Store
