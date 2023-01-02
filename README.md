@@ -33,8 +33,7 @@ Sinatra application to allow a user to track their bass catches and bait.
 
 ## Skills
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="drawing" width="200"/>
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="drawing" width="100"/>
 
 <!--
 **ChrisBaum89/ChrisBaum89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
