@@ -18,7 +18,6 @@ Wanting to focus on the aspects of my career that I enjoy most, I joined the Fla
 I have strong and diverse analytical skills, project and management skills, and communication skills working with customers, engineers, managers, directors, and corporate leaders. I have always provide a very positive impact to teams and businesses and know that I can be an asset to yours!
 
 ## Projects
----
 #### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad) | [Demo](https://youtu.be/JhE0Ln7CYAQ)
 Full-stack app to help dads perform daily chores, play with their kids more, and have fun telling silly dad jokes. Features a Ruby on Rails back-end and React front-end.
 
