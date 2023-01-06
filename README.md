@@ -1,21 +1,13 @@
 ### Hi! I'm Chris! 👋
 ---
 
-I have always loved technology across multiple fields of engineering and see the benefits these technologies can bring to help make things easier, improve consistency and quality, and positively impact quality of life.
+I have always loved science and technology! I think it's incredible that a simple idea thought up on someone's brain can turn into a techology that changes the world and makes peoples' lives better. As a kid I grew up building, creating, experimenting, and spending time outside in nature.
 
-I got my Bachelor's degree in Mechanical Engineering after much debate between Electrical, Mechanical, and Computer Science.  I have worked 9 years in Pharmaceutical and Medical Device manufacturing, designing and implementing automated equipment and continuous improvements activities. My most recent position was as an engineering manager, helping to lead technological development and advancements within our facility and company.
+With a passion for the sciences, I got my Bachelor's degree in Mechanical Engineering...worked as a automation engineer and engineering manager with a focus on automated equipment and machine vision for over a decade...and completed the Software Engineering program at Flatiron School. If you can't tell, "knowledge is power" is something I try to take to heart as I still have the desire to create, improve, and drive positive change in the teams and companies that I work with. I believe that having a diverse background is valuable as you can see things from different perspectives.
 
-The things I have enjoyed most about my career so far have been:
+My experience includes Ruby, Ruby on Rails, Sinatra, Javascript, React, Redux, SQLite, PLC programming, robotics, Human Machine Interface (HMI) programming and design, and machine vision.
 
-- programming and optimizing PLCs, vision systems, and human-machine interfaces to do things better, faster, and more cost effective
-- implementing new projects that remove business headaches and support customers' goals
-- developing methods for data collection that provides useful information to users and decision makers within an organization
-
-Many of these skills were self-taught, as I have a strong desire to continuously improve my skills, add value to my team, and learn new, ever improving technologies.
-
-Wanting to focus on the aspects of my career that I enjoy most which is programming and problem solving, I joined the Flatiron School - Software Engineering program and graduated in December 2022. 
-
-Outside of my professional life, I have a beautiful wife, Brittany, and two beautiful kids, Wes and Lacey. I love spending time with them and exploring new places!
+Outside of my professional life, I have a beautiful wife, Brittany, and two beautiful kids, Wes and Lacey. I love spending time with them and exploring new places. On my days off you can usually find me with my family, boating, fishing, exercising, and socializing with friends.
 
 ## Projects
 #### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad) | [Demo](https://youtu.be/JhE0Ln7CYAQ)
