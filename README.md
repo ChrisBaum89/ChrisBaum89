@@ -1,7 +1,7 @@
 ### Hi! I'm Chris! 👋
 ---
 
-I have always loved science and technology! I think it's incredible that a simple idea thought up in someone's brain can turn into a techology or scientific principle that changes the world and makes peoples' lives better. As a kid I grew up building, creating, experimenting, and spending time outside in nature and can say that that passion has continued through my life.
+I have always loved science and technology! I think it's incredible that a simple idea thought up in someone's brain can turn into a technology or scientific principle that changes the world and makes peoples' lives better. As a kid I grew up building, creating, experimenting, and spending time outside in nature and can say that that passion has continued through my life.
 
 I received my Bachelor's degree in Mechanical Engineering...worked as a automation engineer and engineering manager with a focus on automated equipment and machine vision for over a decade...and completed the Software Engineering program at Flatiron School. If you can't tell, "knowledge is power" is something I try to take to heart as I still have the desire to create, improve, and drive positive change in the teams and companies that I work with. I believe that having a diverse background is valuable as you can see things from different perspectives and have unique ideas.
 
