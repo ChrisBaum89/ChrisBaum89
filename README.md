@@ -13,9 +13,9 @@ The things I have enjoyed most about my career so far have been:
 
 Many of these skills were self-taught, as I have a strong desire to continuously improve my skills, add value to my team, and learn new, ever improving technologies.
 
-Wanting to focus on the aspects of my career that I enjoy most, I joined the Flatiron School - Software Engineering program and graduated in December 2022. As a recent graduate of Flatiron School, with experience using front-end and back-end technologies such as Ruby, Rails, JavaScript, and React, I wish to use and continue to develop these skills to make a positive impact to software project teams, businesses, and society.
+Wanting to focus on the aspects of my career that I enjoy most which is programming and problem solving, I joined the Flatiron School - Software Engineering program and graduated in December 2022. 
 
-I have strong and diverse analytical skills, project and management skills, and communication skills working with customers, engineers, managers, directors, and corporate leaders. I have always provide a very positive impact to teams and businesses and know that I can be an asset to yours!
+Outside of my professional life, I have a beautiful wife, Brittany, and two beautiful kids, Wes and Lacey. I love spending time with them and exploring new places!
 
 ## Projects
 #### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad) | [Demo](https://youtu.be/JhE0Ln7CYAQ)
