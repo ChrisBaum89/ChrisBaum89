@@ -10,7 +10,7 @@ My programming experience includes Ruby, Ruby on Rails, Sinatra, Javascript, Rea
 Outside of my professional life, I have a beautiful wife, Brittany, and two beautiful kids, Wes and Lacey. I love spending time with them and exploring new places. On my days off you can usually find me with my family, boating, fishing, exercising, and socializing with friends.
 
 ## Projects
-#### Triton Technologies, LLC Company Website [Repo](https://github.com/ChrisBaum89/triton_technologies_llc) | [link](https://www.tritontechnologiesllc.com)
+#### Triton Technologies, LLC Company Website [Repo](https://github.com/ChrisBaum89/triton_technologies_llc) | [Link](https://www.tritontechllc.com/)
 Company website created using Next.js and actively hosted on Vercel. Utilizes bootstrap components for consistent and reactive styling and is compatible with mobile devices.
 
 #### Better Dad [Repo](https://github.com/ChrisBaum89/better-dad) | [Demo](https://youtu.be/JhE0Ln7CYAQ)
