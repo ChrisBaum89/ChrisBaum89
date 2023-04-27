@@ -5,7 +5,7 @@ I have always loved science and technology! I think it's incredible that a simpl
 
 I received my Bachelor's degree in Mechanical Engineering...worked as a automation engineer and engineering manager with a focus on automated equipment and machine vision for over a decade...and completed the Software Engineering program at Flatiron School. If you can't tell, "knowledge is power" is something I try to take to heart as I still have the desire to create, improve, and drive positive change in the teams and companies that I work with. I believe that having a diverse background is valuable as you can see things from different perspectives and have unique ideas.
 
-My programming experience includes Ruby, Ruby on Rails, Sinatra, Javascript, React, Redux, HTML, CSS, SQLite, Programmable Logic Controllers (PLCs), robotics, Human Machine Interfaces (HMIs), and machine vision.
+My programming experience includes Ruby, Ruby on Rails, Sinatra, Javascript, React, Next.JS, Redux, HTML, CSS, SQLite, Programmable Logic Controllers (PLCs), robotics, Human Machine Interfaces (HMIs), and machine vision.
 
 Outside of my professional life, I have a beautiful wife, Brittany, and two beautiful kids, Wes and Lacey. I love spending time with them and exploring new places. On my days off you can usually find me with my family, boating, fishing, exercising, and socializing with friends.
 
